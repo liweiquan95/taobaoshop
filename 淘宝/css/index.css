@@ -197,25 +197,28 @@ a.active1 {
 }
 .single_No1 {
 	float: left;
-	width: 214px;
-	height: 390px;
+	width: 223px;
+	height: 393px;
 	padding: 0 5px;
-	border: 1px solid red;
+	border: 1px solid #e8e8e8;
 	margin: -1px;
+	padding: 0 5px;
+	background: #008080;
 }
 .single_No2 {
-	width: 139px;
-	height: 181px;
+	width: 153px;
+	height: 393px;
 	padding: 0 5px;
-	border: 1px solid blue;
+	border: 1px solid #e8e8e8;
 	margin: -1px;
 	float: left;
+	padding: 0 5px;
+	background: #A52A2A;
 }
 .single_No3 {
-	width: 139px;
-	height: 181px;
-	padding: 0 5px;
-	border: 1px solid blue;
+	width: 396px;
+	height: 158px;
+	border: 1px solid #e8e8e8;
 	margin: -1px;
 	float: left;
 }
@@ -223,6 +226,11 @@ a.active1 {
 	height: 520px;
 	background: gold;
 	margin-top: 20px;
+}
+.direct_top {
+	height: 440px;
+	background: red;
+	padding: 20px 0;
 }
 .buy-list {
 	margin-top: 20px;
